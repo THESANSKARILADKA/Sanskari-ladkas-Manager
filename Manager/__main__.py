@@ -20,13 +20,11 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}!
+Hello {}, my name is {LEARNING BOT}!
 
-You know how hard it is sometimes to manage group so here is the solution for you.
+My owner is [MR SANSKARI 🇮🇳](t.me/THESANSKARI_LADKA)
 
-My owner is [Aditya 🇮🇳](t.me/xditya)
-
-Click /help or Help button below to find out more about how to use me to my full potential.
+I m Created For [Learning Zone](https://t.me/class101112hw).
 """
 
 HELP_STRINGS = """
