@@ -33,7 +33,7 @@ buttons = [[
                          url="http://t.me/learning_zones_bot?startgroup=true"),
     InlineKeyboardButton(text="My Channel",
                          url="https://t.me/class101112hw",
-]]
+                ]]
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
