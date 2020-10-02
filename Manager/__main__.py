@@ -20,7 +20,7 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {LEARNING BOT}!
+Hello {}, my name is {}!
 
 My owner is [MR SANSKARI 🇮🇳](t.me/THESANSKARI_LADKA)
 
