@@ -25,7 +25,15 @@ Hello {}, my name is {}!
 My owner is [MR SANSKARI 🇮🇳](t.me/THESANSKARI_LADKA)
 
 I m Created For [Learning Zone](https://t.me/class101112hw).
+
 """
+
+buttons = [[
+    InlineKeyboardButton(text="Add to group",
+                         url="http://t.me/learning_zones_bot?startgroup=true"),
+    InlineKeyboardButton(text="My Channel",
+                         url="https://t.me/class101112hw",
+]]
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
